@@ -2,8 +2,12 @@
 
 Simple bot that tells off anyone who posts anime in the server
 
-Uses 
+Uses:
+	
 discord.py
+
 BeautifulSoup
+
 Requests
+
 URLExtract
