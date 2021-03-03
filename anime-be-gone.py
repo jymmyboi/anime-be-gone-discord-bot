@@ -3,7 +3,6 @@ import discord
 from bs4 import BeautifulSoup
 import requests
 from urlextract import URLExtract
-import re
 
 TOKEN = 'XXXXXXXXX'
 
